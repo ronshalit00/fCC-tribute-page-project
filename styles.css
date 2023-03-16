@@ -1,0 +1,39 @@
+main {
+    text-align: center;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+#img-caption p{
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 0;
+    text-align: center;
+}
+#tribute-info {
+    max-width: 60%;
+}
+#tribute-info {
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: left;
+}
+#wiki-ref {
+    margin-top: 30px;
+}
+a {
+    font-weight: 700;
+    color: #00a170;
+}
+a:hover {
+    color: #019db1;
+    cursor: pointer;
+}
